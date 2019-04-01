@@ -1,0 +1,13 @@
+{
+    "name": "maiwenn/kekette-composer",
+    "description": "Projet quete Composer",
+    "authors": [
+        {
+            "name": "maiwenn99",
+            "email": "maiwenngay99@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
